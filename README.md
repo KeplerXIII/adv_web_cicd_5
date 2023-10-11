@@ -1,0 +1,2 @@
+Build status: [![Build status](https://ci.appveyor.com/api/projects/status/w088swkw4qlcge7i?svg=true)](https://ci.appveyor.com/project/KeplerXIII/adv-web-cicd-5)  
+Site link: [Github pages - Card Validator](https://keplerxiii.github.io/adv_web_cicd_5/)

@@ -1,0 +1,50 @@
+.card-input-container {
+    width: 320px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    text-align: left;
+    position: relative;
+}
+
+.card-input {
+    margin-bottom: 10px;
+}
+
+.card-input label {
+    display: block;
+    font-weight: bold;
+}
+
+.card-input input[type="text"] {
+    width: 93%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+}
+
+.card-input input[type="text"]::placeholder {
+    color: #999;
+}
+
+.card-icon {
+    filter: grayscale(100%);
+}
+
+#check-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #483b83;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.active {
+    filter: grayscale(0%);
+}
